@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>Integration Services Project1</Name>
-    <LastWriteTime>2019-04-04T04:07:16.339092Z</LastWriteTime>
+    <LastWriteTime>2019-04-08T14:59:14.0569549Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -28,7 +28,17 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Lesson4.dtsx</Name>
-      <LastWriteTime>2019-04-04T04:08:08.5309829Z</LastWriteTime>
+      <LastWriteTime>2019-04-08T12:31:23.7555068Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Lesson5.dtsx</Name>
+      <LastWriteTime>2019-04-08T14:49:41.4296946Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Lesson 6 grouping.dtsx</Name>
+      <LastWriteTime>2019-04-08T14:59:14.0169563Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
